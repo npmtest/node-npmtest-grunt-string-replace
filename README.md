@@ -1,6 +1,6 @@
 # npmtest-grunt-string-replace
 
-#### basic test coverage for  [grunt-string-replace (v1.3.1)](https://github.com/eruizdechavez/grunt-string-replace)  [![npm package](https://img.shields.io/npm/v/npmtest-grunt-string-replace.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-grunt-string-replace) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-grunt-string-replace.svg)](https://travis-ci.org/npmtest/node-npmtest-grunt-string-replace)
+#### basic test-coverage for  [grunt-string-replace (v1.3.1)](https://github.com/eruizdechavez/grunt-string-replace)  [![npm package](https://img.shields.io/npm/v/npmtest-grunt-string-replace.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-grunt-string-replace) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-grunt-string-replace.svg)](https://travis-ci.org/npmtest/node-npmtest-grunt-string-replace)
 
 #### Replaces strings on files by using string or regex patterns. Attempts to be a String.prototype.replace adapter task for your grunt project.
 
